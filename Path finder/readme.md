@@ -35,4 +35,10 @@ Explain the core logic:
 
 ---
 
-**README file:** Done with the help of ChatGPT 🤖
+
+## 📜 Credits
+
+- **Video Credits:** [3 Mini Python Projects - For Intermediates by Tech with Tim](https://www.youtube.com/watch?v=txKBWtvV99Y)  
+- **README file:** Done with the help of ChatGPT 🤖  
+
+---
