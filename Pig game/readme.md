@@ -23,8 +23,7 @@
 
 ## 🖼 Screenshot
 
-![Project 1 Output](project1_output.png)  
-*Replace with your actual screenshot.*
+![Terminal Output](screenshot_terminal.png)
 
 ---
 
