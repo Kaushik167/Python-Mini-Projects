@@ -29,7 +29,7 @@ Explain the core logic:
 
 ## 🖼 Screenshots
 
-**Example Output / Screenshot:**  
+**Example Output:**
 ![Terminal Output](screenshot_terminal_pg.png)
 
 ---
