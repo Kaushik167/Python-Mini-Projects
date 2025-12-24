@@ -29,8 +29,7 @@ Explain the core logic:
 
 ## 🖼 Screenshots
 
-**Example Output:**
-![Terminal Output](screenshot_terminal_pg.png)
+![Terminal Output](screenshot_terminal_tg.png)
 
 ---
 
