@@ -32,4 +32,10 @@
 
 ---
 
-**README file:** Done with the help of ChatGPT 🤖
+
+## 📜 Credits
+
+- **Video Credits:** [5 Mini Python Projects - For Beginners by Tech with Tim](https://www.youtube.com/watch?v=DLn3jOsNRVE)  
+- **README file:** Done with the help of ChatGPT 🤖  
+
+---
