@@ -27,7 +27,7 @@ Explain the logic behind the code:
 ---
 
 ## 🖼 Screenshots
-**Example Output:**
+
 ![Terminal Output](screenshot_terminal_tlp.png)
 
 ---
