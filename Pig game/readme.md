@@ -1,4 +1,4 @@
-# 🐍 Project 1 – Pig Game
+# 🐍 Pig Game
 
 *A simple Python project built to practice Python basics like input, output, loops, and conditionals.*  
 
