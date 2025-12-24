@@ -30,7 +30,6 @@ Explain the core logic:
 
 ## 🖼 Screenshots
 
-**Example Output:**  
 ![Window Output](screenshot_window_pf.png)
 
 ---
