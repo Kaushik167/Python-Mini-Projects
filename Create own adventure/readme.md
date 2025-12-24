@@ -1,29 +1,33 @@
-# 🐍 Create own adventure
-
-*A small interactive Python application to practice control flow and basic logic.*  
+# 🐍 Create Own Adventure
 
 ---
 
-## 🎯 How It Works
+## 🎯 What It Does
 
-- The program interacts with the user via input prompts.  
-- Implements logical decisions and simple calculations.  
-- Provides feedback or output based on the user’s choices.  
+- Performs a small task using Python logic.  
+- Shows how to combine input, loops, and simple computation.
+
+---
+
+## 🧠 How It Works
+
+- Reads user input.  
+- Includes a loop or decision logic.  
+- Outputs results to terminal.
 
 ---
 
 ## 📚 Things Learned
 
-- Control flow using `if`, `elif`, `else`  
-- Processing user input  
-- Implementing basic logic and functions  
-- Structuring a simple interactive program  
+- Loop usage (`for`, `while`)  
+- Conditionals (`if/else`)  
+- Use of standard Python library functions
 
 ---
 
 ## 🖼 Screenshot
 
-![Terminal Output](screenshot_terminal_coa.png)  
+![Terminal Output](screenshot_terminal_coa.png)
 
 ---
 
