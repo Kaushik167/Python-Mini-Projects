@@ -23,7 +23,7 @@
 
 ## 🖼 Screenshot
 
-![Terminal Output](screenshot_terminal.png)  
+![Terminal Output](screenshot_terminal_coa.png)  
 
 ---
 
