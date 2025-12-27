@@ -7,7 +7,7 @@ Each project includes its own detailed README with instructions, screenshots, an
 
 ## 🏁 Projects
 
-### 1. [Create Your Own Adventure](Create%20own%20adventure/readme.md)
+### 1. Create Your Own Adventure
 - An interactive text-based adventure game where users make choices that affect the story.  
 - Demonstrates conditionals, loops, and branching logic.  
 - [View full project details](Create%20own%20adventure/readme.md)
